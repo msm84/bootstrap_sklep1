@@ -18,3 +18,17 @@
   
   .carousel-caption {
     top: 50%; }
+
+    h2 {
+      font-size: 25px;
+      margin: 10px 0;
+  }
+
+  .card h3 {
+    font-size: 30px;
+    margin-bottom: 60px;
+  }
+
+  .card .btn {
+    margin: center;
+  }
